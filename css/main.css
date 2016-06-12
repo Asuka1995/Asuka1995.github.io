@@ -880,7 +880,7 @@ pre .javascript .function {
 }
 @font-face {
   font-family: Axure Handwriting;
-  src: url("AxureHandwriting.otf");
+  src: url("fonts/AxureHandwriting.otf");
 }
 .site-meta {
   margin: 0;
@@ -1571,7 +1571,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #b6ff3b;
+  background: #ff49be;
 }
 .links-of-blogroll {
   font-size: 13px;
