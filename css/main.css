@@ -185,7 +185,7 @@ th {
 }
 body {
   position: relative;
-  font-family: 'Axure Handwriting', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'AxureHand writing', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 14px;
   line-height: 2;
   color: #555;
@@ -216,7 +216,7 @@ h6 {
   padding: 0;
   font-weight: bold;
   line-height: 1.5;
-  font-family: 'Axure Handwriting', 'Axure Handwriting', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'AxureHand writing', 'AxureHand writing', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 h2,
 h3,
@@ -878,13 +878,6 @@ pre .javascript .function {
   height: 3px;
   background: #222;
 }
-@font-face {
-  font-family: Axure Handwriting;
-  src: url("fonts/AxureHandwriting.otf");
-}
-div {
-  font-family: Axure Handwriting;
-}
 .site-meta {
   margin: 0;
   text-align: center;
@@ -917,7 +910,7 @@ div {
   line-height: 36px;
   font-size: 40px;
   font-weight: normal;
-  font-family: 'Lovers Quarrel', 'Axure Handwriting', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Lovers Quarrel', 'AxureHand writing', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 .site-subtitle {
   margin-top: 10px;
@@ -1006,7 +999,7 @@ div {
   opacity: 0;
 }
 .post-body {
-  font-family: 'Axure Handwriting', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'AxureHand writing', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 @media (max-width: 767px) {
   .post-body {
@@ -1271,7 +1264,7 @@ div {
 .posts-expand .post-meta {
   margin: 3px 0 60px 0;
   color: #999;
-  font-family: 'Axure Handwriting', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'AxureHand writing', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 12px;
   text-align: center;
 }
@@ -1574,7 +1567,7 @@ div {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #1cad34;
+  background: #d0ffcc;
 }
 .links-of-blogroll {
   font-size: 13px;
