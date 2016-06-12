@@ -882,6 +882,9 @@ pre .javascript .function {
   font-family: Axure Handwriting;
   src: url("fonts/AxureHandwriting.otf");
 }
+div {
+  font-family: Axure Handwriting;
+}
 .site-meta {
   margin: 0;
   text-align: center;
@@ -1571,7 +1574,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff49be;
+  background: #1cad34;
 }
 .links-of-blogroll {
   font-size: 13px;
